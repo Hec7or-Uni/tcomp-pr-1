@@ -1,0 +1,3 @@
+egrep '^[AaEeIiOoUu]|[AaEeIiOoUu]$' t.txt
+egrep '[a-zA-Z]$' t.txt
+egrep '[^0-9]([0-9]*[02468])[^0-9]' t.txt
